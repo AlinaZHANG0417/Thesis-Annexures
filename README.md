@@ -5,15 +5,15 @@ Data2. Summary of Sentence-level emotional data of the main characters in 18 con
 Data3. Summary of Sentence-level Secondary Character Emotional Data in 18 Contemporary China Children's Popular Novels.csv
 │
 ├── code/                  # 包含9个脚本，按功能命名：
-│   ├── Code1, Figure1,18 sample emotional halo diagram.py
-│   ├── code2. figure2, Distribution map of emotional polarity in different types of novels (horizontal).py
-│   ├── Code3. Figure3. Classification diagram of emotional intensity with different emotional polarities.py
-│   ├── Code4. Figure 4-5. Radar chart of fine-grained emotional types in novels.py
-│   ├── Code5, Figure6-8Analysis of basic fluctuation characteristics.py
-│   ├── Code6, Figure9-11.Analysis of basic fluctuation characteristics.py
-│   ├── Code7.Figure12-20+Table5,loess segment with peaks.py
-│   ├── Code8, Figure21-22.dtw novel clustering.py
-│   └── Code9, Figure23-31, DTW analysis of main and secondary roles.py
+│   ├── Code1_Figure2_18_sample_emotional_halo_diagram.py
+│   ├── Code2_Figure3_Distribution_map_of_emotional_polarity_horizontal.py
+│   ├── Code3_Figure4_Classification_diagram_of_emotional_intensity.py
+│   ├── Code4_Figure5-8_Radar_chart_fine_grained_emotional_types.py
+│   ├── Code5_Figure9-11Emotional Transition Network
+│   ├── Code6_Figure12-13_Basic_fluctuation_characteristics_analysis.py
+│   ├── Code7_Figure15-32_Table5_Loess_segmentation_with_peaks.py
+│   ├── Code8_Figure34_DTW_novel_clustering.py
+│   └── Code9. Figure35-43. DTW analysis of main and secondary roles.py
 │
 ├── results/               # 输出图表与结果表格
 │   ├── charts/
